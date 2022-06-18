@@ -14,18 +14,7 @@ const count = ref(0);
     <p>This is such a nice project! I just love it!</p>
   </div>
 
-  <p>
-    Check out
-    <a href="https://vuejs.org/guide/quick-start.html#local" target="_blank"
-      >create-vue</a
-    >, the official Vue + Vite starter
-  </p>
-  <p>
-    Install
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
-    in your IDE for a better DX
-  </p>
-  <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
+  <h3>Making some updates to check if I can push to my repo.</h3>
 </template>
 
 <style scoped>
